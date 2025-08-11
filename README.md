@@ -46,13 +46,6 @@ India faces growing challenges related to water scarcity, pollution, and ineffic
 
 ---
 
-## 🛠️ Built With
-
-| Platform | Description |
-|----------|-------------|
-| [Bolt.new](https://bolt.new) | AI-based website builder using natural language prompts |
-
----
 
 ## 🤝 Contributing
 
