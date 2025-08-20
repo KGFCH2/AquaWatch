@@ -59,7 +59,7 @@ This is an open initiative. Contributions are welcome to:
 
 ---
 
-## <img src="https://i.ibb.co/xKghpzSf/certificate-unscreen.gif" width="50"> License
+## <img src="https://i.ibb.co/zVDQ9PDx/notebook-unscreen.gif" width="50"> License
 
 This project is currently for **educational and awareness** purposes and does **not claim any official government affiliation**.  
 © 2025 AquaWatch India. All rights reserved.
