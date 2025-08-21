@@ -70,7 +70,7 @@ This project is currently for **educational and awareness** purposes and does **
 
 **👨‍💻 Built by**: Babin Bid  
 
-- 📧 Email: [babin.bid@stu.adamasuniversity.ac.in](mailto:babin.bid@stu.adamasuniversity.ac.in)  
+- 📧 Email: [babin.bid@stu.adamasuniversity.ac.in](mailto:babin.bid@stu.adamasuniversity.ac.in) OR [babinbid05@gmail.com](mailto:babinbid05@gmail.com)  
 - 🌐 GitHub: [KGFCH2](https://github.com/KGFCH2)  
 - 🔗 LinkedIn: [Babin Bid](https://www.linkedin.com/in/babin-bid-853728293/)
 
