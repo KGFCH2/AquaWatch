@@ -59,14 +59,14 @@ This is an open initiative. Contributions are welcome to:
 
 ---
 
-## <img src="https://i.ibb.co/zVDQ9PDx/notebook-unscreen.gif" width="50"> License
+## <img src="https://i.ibb.co/MLgvN26/notebook-2-unscreen.gif" width="50"> License
 
 This project is currently for **educational and awareness** purposes and does **not claim any official government affiliation**.  
 © 2025 AquaWatch India. All rights reserved.
 
 ---
 
-## <img src="https://i.ibb.co/VWkX3QQr/teamwork-unscreen.gif" width="50"> Connect With Me
+## <img src="https://i.ibb.co/pjxkYgx8/circle-diagram-unscreen.gif" width="50"> Connect With Me
 
 **👨‍💻 Built by**: Babin Bid  
 
